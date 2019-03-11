@@ -1,0 +1,8 @@
+generatePDF$Receipt.class
+Main.class
+RequestHTTP.class
+SimpleFromJSON.class
+generateData.class
+Builder.class
+dateGenerator.class
+generatePDF.class
